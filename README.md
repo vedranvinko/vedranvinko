@@ -1,18 +1,11 @@
 ```json
 {
-  "array": [
-    1,
-    2,
-    3
+  "name": "vedran",
+  "given_name": "vinko",
+  "@work": "infrastructure and application engineer @ ecx.io | IBM iX",
+  "@home": [
+      "ruby",
+      "rust",
   ],
-  "boolean": true,
-  "color": "gold",
-  "null": null,
-  "number": 123,
-  "object": {
-    "a": "b",
-    "c": "d"
-  },
-  "string": "Hello World"
 }
 ```
